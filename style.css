@@ -213,8 +213,8 @@ li.dropdown {
 
 .profile-wrapper{
   border: 7px solid #ff6666;
-  width: 500px;
-  margin: 50px 100px;
+  width: 425px;
+  margin: 50px 20px;
   background-color: #00a69d;
   border-radius: 15px;
   color: #fff;
@@ -239,7 +239,7 @@ li.dropdown {
 }
 .company-desc{
   color: #fff;
-  font-size:50px;
+  font-size: 30px;
   letter-spacing: 1px ;
   text-align: justify;
   padding: 50px;
